@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "realTime.consumer"
+		},
+		{
+			"path": "realTime.sender"
+		},
+		{
+			"path": "realtime.fronted"
+		}
+	],
+	"settings": {}
+}
